@@ -6,6 +6,10 @@ Hesaplayıcı brings together online calculators, practical guides and reference
 
 [Website](https://hesaplayici.com/en) · [Calculators](https://hesaplayici.com/en/tools) · [Developer docs](https://hesaplayici.com/en/developers)
 
+## Open resources
+
+**[Financial Math Cheat Sheet](https://github.com/hesaplayici/financial-math-cheatsheet)** — Everyday financial formulas with worked examples, common mistakes and printable PDFs. Available in English and Turkish.
+
 ## On the website
 
 Use a calculator when you need a result. Follow the worked examples when you want to check the method. Read the guides when the question takes more than a formula to explain.
@@ -35,6 +39,10 @@ Connect your AI assistant to Hesaplayıcı through Model Context Protocol (MCP).
 Hesaplayıcı; çevrim içi hesaplama araçlarını, uygulamalı rehberleri ve başvuru verilerini Türkçe ve İngilizce bir araya getirir. Bir hesap yapmak, yöntemi öğrenmek veya sonucun dayandığı verileri incelemek için web sitesini kullanabilirsiniz. Geliştiriciler ve yapay zekâ asistanları da aynı hesaplama araçlarına REST API ve MCP üzerinden erişebilir.
 
 [Web sitesi](https://hesaplayici.com) · [Hesaplama araçları](https://hesaplayici.com/araclar) · [Geliştirici belgeleri](https://hesaplayici.com/gelistirici)
+
+### Açık kaynaklar
+
+**[Finans Matematiği — Hızlı Başvuru](https://github.com/hesaplayici/financial-math-cheatsheet/blob/main/README.tr.md)** — Günlük finans hesapları için formüller, sayısal örnekler, sık yapılan hatalar ve yazdırılabilir PDF’ler. İngilizce ve Türkçe.
 
 ### Web sitesinde
 
